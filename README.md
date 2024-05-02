@@ -1,4 +1,4 @@
-# Pratikum_6
+# Pratikum_5
 
 ## Getting Started
 

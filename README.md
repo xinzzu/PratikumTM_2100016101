@@ -1,6 +1,5 @@
-# MDC-100 Series of Codelabs
+# Pratikum 7-Praktikum
 
-## Getting Started
+## Azis Nurrahman Septian
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+21000161101
